@@ -10,6 +10,7 @@ namespace gitExample.Controllers
     {
         public ActionResult Index()
         {
+            //merging files
             //this is from dev
             //this is modified file
             return View();
